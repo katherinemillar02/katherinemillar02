@@ -1,12 +1,12 @@
 
-•  👋 Hi 
+•  👋 Hi there 
 
-•  🌱 I’m currently learning #everydayisalifelesson 🤪✌️
+•  🌱 I’m currently trying to learn BIO 
 
 •  👀 Really likes geneticcy things 
 
 •  🪰 Loves ❤️ *D.Melanogaster*
 
-• 📚 Hashtag UEABIO
+• 📚 UEABIO
 
-•  📫 How to reach me: you'll probably find me out exploring!!
+•  📫 How to reach me: ?
