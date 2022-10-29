@@ -5,7 +5,7 @@
 
 •  👀 Really likes geneticcy things 
 
-•  🪰 Loves ❤️ *Drosophila Melanogaster*
+•  🪰 Loves ❤️ *D. Melanogaster*
 
 • 📚 UEABIO
 
