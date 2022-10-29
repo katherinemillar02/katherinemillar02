@@ -9,4 +9,4 @@
 
 • 📚 Hashtag UEABIO
 
-•  📫 How to reach me: ...
+•  📫 How to reach me: you'll probably find me out exploring!!
