@@ -1,12 +1,11 @@
 
-•  👋 Hi there 
+ ### 👋 Hi there 
 
-•  🌱 I’m currently trying to learn BIO 
+•  🌱 I’m currently trying to learn R
 
-•  👀 Really likes geneticcy things 
+•  👀 Likes genetics
 
-•  🪰 Loves ❤️ *D. Melanogaster*
+• 📚 UEA Biological Sciences Student
 
-• 📚 UEABIO
+•  📫 How to reach me: 
 
-•  📫 How to reach me: with 🧊
