@@ -1,11 +1,11 @@
 
  ### 👋 Hi there 
 
-● 🌱 I’m currently trying to learn R
+• 🌱 I’m currently trying to learn more R
 
-● 👀 Likes genetics
+• 👀 Likes genetics
 
-● 📚 UEA Biological Sciences Student
+• 📚 UEA Biological Sciences Student
 
-● 📫 How to reach me: 
+• 📫 How to reach me: 
 
