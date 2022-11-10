@@ -1,5 +1,5 @@
 
- ## 👋 Hi there 
+ ## 👋 Hi, I'm  @katherinemillar02
 
 • 🌱 I’m currently trying to learn more R
 
@@ -7,5 +7,5 @@
 
 • 📚 UEA Biological Sciences Student
 
-• 📫 How to reach me: 
+ ## 📫 How to reach me: 
 
