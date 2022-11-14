@@ -1,5 +1,5 @@
 
- ## 👋 Hi, I'm  @katherinemillar02
+ ## 👋 Hi
  
  **📚 UEA Biological Sciences Student**
 
