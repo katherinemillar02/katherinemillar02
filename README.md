@@ -5,7 +5,7 @@
 
 • 🌱 I’m currently trying to learn more R
 
-• 👀 Like: genetics, R
+• 👀 Like: genetics, R and flies 
 
 
 
