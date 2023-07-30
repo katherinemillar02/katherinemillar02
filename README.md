@@ -1,13 +1,13 @@
 
- ## 👋 Hi
+ ## 👋 G'day
  
- **📚 UEA Biological Sciences Student**
+ **📚 MSc by Research Student**
 
 • 🌱 I’m currently trying to learn more R
 
-• 👀 Likes genetics
+• 👀 Like: genetics, R
 
 
 
  ## 📫 How to reach me: 
-You don't really want to
+? 
