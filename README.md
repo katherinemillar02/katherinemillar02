@@ -16,4 +16,4 @@
 
 
 ### Click here for a surprise!
-<a href="https://www.instagram.com/drosothephila/?next=%2F"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Drosophila_Female_ClipArt_-_MH.svg" width="40" height="40"/></a>
+<a href="https://www.instagram.com/drosothephila/?next=%2F"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Drosophila_Female_ClipArt_-_MH.svg" width="60" height="60"/></a>
