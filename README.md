@@ -1,7 +1,7 @@
 
  ## 👋 G'day
  
- **📚 Recent Biological Sciences Graduate**
+ **__📚 Recent Biological Sciences Graduate__**
 
 • 🌱 I’m currently trying to learn more R: particularly simulations, functions and improving my knowledge in statistical analysis.  
 
