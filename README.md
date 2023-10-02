@@ -1,7 +1,7 @@
 
  ## 👋 Hi 
  
- **__📚 __**
+ **__📚 MSc by Research Student__**
 
 • 🌱 I’m currently trying to learn more R: particularly simulations, functions and improving my knowledge in statistical analysis.  
 
