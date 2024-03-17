@@ -1,11 +1,11 @@
 
  ## 👋 Hi 
  
- **__📚 MSc by Research Student researching *Drosophila melanogaster* + diet + gut microbes/pheremones + life-history effects__**
+ **__📚 MSc by Research Student at UEA, researching *Drosophila melanogaster* + diet + gut microbes/pheremones + life-history effects__**
 
 • 🌱 I’m currently trying to learn more R: particularly simulations, functions and improving my knowledge in statistical analysis.  
 
-• 👀 Like: genetics and R
+• 👀 Loves: fruit flies, genetics, evolution and microbiomes. 
 
 
 
