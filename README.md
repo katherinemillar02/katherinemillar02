@@ -18,4 +18,4 @@
 
 ### Click on the fly for a surprise!!
 <a href="[https://www.linkedin.com/in/katie-millar-15bb56236/](https://www.instagram.com/drosothephila/)"><img
-src="https://commons.wikimedia.org/wiki/File:Icon_-_Drosophila_melanogaster.svg" width="40" height="40"/></a>
+src="file:///Users/katherinemillar/Downloads/Drosophila_side_MASTER_lij8ZLv.svg" width="40" height="40"/></a>
