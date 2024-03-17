@@ -16,3 +16,5 @@
 <a href="mailto:katie.millar@uea.ac.uk"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="40" height="40"/></a>
 
 
+### Click on the fly for a surprise!!
+<a href="[https://www.linkedin.com/in/katie-millar-15bb56236/](https://www.instagram.com/drosothephila/)"><img src="https://commons.wikimedia.org/wiki/File:Drosophila_Female_ClipArt_-_MH.svg" width="40" height="40"/></a>
