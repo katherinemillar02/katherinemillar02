@@ -1,7 +1,7 @@
 
  ## 👋 Hi 
  
- **__📚 MSc by Research Student at UEA, researching *Drosophila melanogaster* + diet + gut microbes/pheremones + life-history effects__**
+ **__📚 PhD Student at UEA__**
 
 • 🌱 I’m currently trying to learn more R: particularly simulations, functions and improving my knowledge in statistical analysis.  
 
