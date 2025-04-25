@@ -13,7 +13,7 @@
 ### Reach me here:
 
 <a href="https://www.linkedin.com/in/katie-millar-15bb56236/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40"/></a>
-<a href="https://bsky.app/profile/katiemillar.bsky.social"><i>{{< fa brands bluesky >}}</i></a>
+[![Bluesky](https://your-image-host/bluesky-icon.png)](https://bsky.app/profile/katiemillar.bsky.social)
 <a href="mailto:katie.millar@uea.ac.uk"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="40" height="40"/></a>
 
 
