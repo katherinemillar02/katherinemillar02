@@ -1,7 +1,7 @@
 
  ## 👋 Hi 
  
- **__📚 PhD Student at University of East Anglia__**
+ **__📚 A Biological Sciences PhD Student at University of East Anglia__**
 
  My PhD project focuses on the Medfly microbiome, and understanding its bacterial constituents, hopefully gaining insights into what drives it to be a pest insect. 
 
